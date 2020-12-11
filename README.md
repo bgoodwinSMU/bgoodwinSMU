@@ -2,7 +2,7 @@
 
 
 
-My name is Ben G and I currently work for Colorado State University, doing lots of stuff with data and bicycles.
+My name is Ben G and I currently work for [Colorado State University](https://www.colostate.edu/), doing lots of stuff with data and bicycles.
 I am a statistics person, but I am also attending Southern Methodist University working on a Master's degree in Data Science.
 Checkout my [data science portfolio](https://bgoodwinsmu.github.io/index.html).
 
