@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" />][GitHub]
 [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][GitHub]
 [<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
-[<img align="left" alt="Java" width="32px" src="https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg" />][GitHub]
+[<img align="left" alt="Java" width="32px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />][GitHub]
 
 <br />
 
