@@ -2,10 +2,9 @@
 
 
 
-My name is Stuart.
-I'm a software engineer at [Texas Instruments](https://www.ti.com/) who writes code to test semiconductors.
-I am also attending Southern Methodist University working on a Master's degree in Data Science.
-Checkout my [data science portfolio](https://sjmiller8182.github.io//portfolio/).
+My name is Ben G and I currently work for Colorado State University, doing lots of stuff with data and bicycles.
+I am a statistics person, but I am also attending Southern Methodist University working on a Master's degree in Data Science.
+Checkout my [data science portfolio](https://bgoodwinsmu.github.io/index.html).
 
 <!--
 **bgoodwinSMU/bgoodwinSMU** is a ✨ _special_ ✨ 
@@ -14,62 +13,48 @@ appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on: Developing an online scheduling tool for bicycle repair
+- 🌱 I’m currently learning: File Organization and Database Management
+- 💬 Ask me about: Statistics or data analysis, or Bayesian Analysis
+- 📫 How to reach me: bgoodwin(@)smu.edu
+- ⚡ Fun fact: I am the owner and founder of Honest Abe's Bicycle Sellers (abesbikes.com)
 -->
 
 ### 🤔 My interests
 
-* Deep Learning (theory and practice)
-* Natural Language Processing
-* DeepFakes (detection in particular)
+* Bayesian Inference
+* Machine Learning
+* Data Cleaning Techniques
 
 ### 🔭 I’m currently working on
 
-* DeepFake Detection
+* Developing an online scheduling tool for bicycle repair
 
 ### 🌱 I’m currently learning
 
-* Deep learning theory
-* Computational Linear Algebra
-* C++
+* File Organization and Database Management
 
 ### 📫 Connect/Find/Follow
 
-* [LinkedIn](https://www.linkedin.com/in/stuartjmiller/)
-* [Website](https://sjmiller8182.github.io/)
-* [Github](https://github.com/sjmiller8182)
-* [StackOverflow](https://stackoverflow.com/users/8088586/s-m)
-<!--* [Youtube](https://www.youtube.com/channel/UC4AwOfXYCvG3UC66VQL2tnA/)-->
+* [LinkedIn](https://www.linkedin.com/in/bengoodwin143/)
+* [Website](https://bgoodwin143.github.io/)
+* [Github](https://github.com/bgoodwin143)
 
 ### :computer: Tools, Languages, and Frameworks
 
-[<img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" />][GitHub]
 [<img align="left" alt="R" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/512px-R_logo.svg.png" />][GitHub]
+[<img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" />][GitHub]
 [<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][GitHub]
 [<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
-[<img align="left" alt="TensorFlow" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />][GitHub]
-[<img align="left" alt="scikit-learn" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />][GitHub]
-[<img align="left" alt="NumPy" width="32px" src="https://user-images.githubusercontent.com/98330/63813335-20cd4b80-c8e2-11e9-9c04-e4dbf7285aa1.png" />][GitHub]
+[<img align="left" alt="Java" width="32px" src="https://en.wikipedia.org/wiki/Java_(programming_language)#/media/File:Java_programming_language_logo.svg" />][GitHub]
 
 <br />
 
 ### :tv: Recent Videos
 
-* [Bidirectional Sequence Models](https://vimeo.com/477833481)
+* [A Model for Classifying Attrition](https://www.youtube.com/watch?v=UtNPEyfNsoY)
+* [Predicting Beer Markets](https://www.youtube.com/watch?v=N48Fv-QEUrQ)
 
-### :scroll: Recent Blog Posts
+[![Ben's github stats](https://github-readme-stats.vercel.app/api?username=bgoodwinSMU)](https://github.com/anuraghazra/github-readme-stats)
 
-* [Implementing Callbacks in TensorFlow 2](https://sjmiller8182.github.io/posts/2020/11/keras-callbacks/)
-* [Creating NumPy Arrays](https://sjmiller8182.github.io/posts/2020/05/creating-numpy-arrays/)
-* [Using Type Hints in Python](https://sjmiller8182.github.io/posts/2020/03/blog-post-2/)
-
-[![Stuart's github stats](https://github-readme-stats.vercel.app/api?username=sjmiller8182)](https://github.com/anuraghazra/github-readme-stats)
-
-[GitHub]: https://github.com/sjmiller8182
+[GitHub]: https://github.com/bgoodwinSMU
