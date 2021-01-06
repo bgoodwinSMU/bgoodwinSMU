@@ -13,7 +13,7 @@ appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: Developing an online scheduling tool for bicycle repair
+- 🔭 I’m currently working on: Developing an easy to use and robust online scheduling and reminder tool for bicycle maintenance.
 - 🌱 I’m currently learning: File Organization and Database Management
 - 💬 Ask me about: Statistics or data analysis, or Bayesian Analysis
 - 📫 How to reach me: bgoodwin(@)smu.edu
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on
 
-* Developing an online scheduling tool for bicycle repair
+* Developing an online scheduling and reminder tool for bicycle maintenance
 
 ### 🌱 I’m currently learning
 
