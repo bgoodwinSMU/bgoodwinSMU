@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ### 🤔 My interests
 
+* Statistics
 * Bayesian Inference
 * Machine Learning
 * Data Cleaning Techniques
