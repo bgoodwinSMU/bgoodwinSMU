@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 ### 📫 Connect/Find/Follow
 
 * [LinkedIn](https://www.linkedin.com/in/bengoodwin143/)
-* [Website](https://bgoodwin143.github.io/)
-* [Github](https://github.com/bgoodwin143)
+* [Website](https://bgoodwinsmu.github.io/)
+* [Github](https://bgoodwinsmu.github.io/)
 
 ### :computer: Tools, Languages, and Frameworks
 
