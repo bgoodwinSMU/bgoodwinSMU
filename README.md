@@ -2,7 +2,7 @@ Welcome to my github profile!
 
 
 
-My name is Ben G and I currently work for [Lockheed Martin Space](https://www.lockheedmartin.com/en-us/capabilities/space.html), doing lots of stuff with data.
+My name is Ben G and I work for [Lockheed Martin Space](https://www.lockheedmartin.com/en-us/capabilities/space.html), doing lots of stuff with data.
 I am a statistics person, but I am also attending Southern Methodist University working on a Master's degree in Data Science.  I'm also the owner and founder of [Honest Abe's Bicycle Sellers](https://abesbikes.com/) which is more of a passion project, but a great way to engage in the cycling community and maintain my own bikes in immaculate shape. 
 Checkout my [data science portfolio](https://bgoodwinsmu.github.io/index.html).
 
