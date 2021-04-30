@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on
 
-* Developing a Bayesian statistic based "buy profiler" for cryptos.
+* Developing a "buy profiler" based on Bayesian inference for cryptos.
 
 ### 🌱 I’m currently learning
 
