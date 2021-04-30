@@ -29,11 +29,12 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on
 
-* Developing an online scheduling and reminder tool for bicycle maintenance
+* Developing a Bayesian statistic based "buy profiler" for cryptos.
 
 ### 🌱 I’m currently learning
 
-* File Organization and Database Management
+* Machine Learning I
+* Visualization of Information
 
 ### 📫 Connect/Find/Follow
 
