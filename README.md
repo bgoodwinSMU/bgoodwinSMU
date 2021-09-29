@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning
 
-* Machine Learning I
-* Visualization of Information
+* Machine Learning II
+* Quantifying the World
+* Research into Fraud detection using ML
 
 ### 📫 Connect/Find/Follow
 
