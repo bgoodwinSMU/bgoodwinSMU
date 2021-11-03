@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 * Machine Learning II
 * Quantifying the World
-* Research into Fraud detection using ML
+* Deteching Medicare Fraud, Abuse, and Theft
 
 ### 📫 Connect/Find/Follow
 
