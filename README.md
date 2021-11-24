@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on
 
-* Using machine learning to detect fraud, theft, and abuse within Medicare
+* Using machine learning to detect fraud, waste, and abuse (FWA) in Medicare
 * Developing a "buy profiler" based on Bayesian inference for cryptos.
 
 ### 🌱 I’m currently learning
