@@ -14,7 +14,7 @@ appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: Developing an easy to use and robust online scheduling and reminder tool for bicycle maintenance.
-- 🌱 I’m currently learning: File Organization and Database Management
+- 🌱 I’m currently learning: Machine Learning II & Quantifying the World
 - 💬 Ask me about: Statistics or data analysis, or Bayesian Analysis
 - 📫 How to reach me: bgoodwin(@)smu.edu
 - ⚡ Fun fact: I am the owner and founder of Honest Abe's Bicycle Sellers (abesbikes.com)
