@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning
 
-* Machine Learning II
-* Quantifying the World
+* Natural Language Processing
+* Business Analytics
 * Deteching Medicare Fraud, Abuse, and Theft
 
 ### 📫 Connect/Find/Follow
