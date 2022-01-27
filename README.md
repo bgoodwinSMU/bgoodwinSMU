@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 * Natural Language Processing
 * Business Analytics
-* Deteching Medicare Fraud, Abuse, and Theft
+* Detecting Medicare Fraud, Waste, and Abuse
 
 ### 📫 Connect/Find/Follow
 
